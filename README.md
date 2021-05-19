@@ -1,6 +1,9 @@
 # BASIC PONG game
 This was my first attempt with hardware and software simulation in the first few weeks of my college.This was made as a part of my couse curriculum .I made this in the span of 5 days which gives me little self boost till date. 
-![](https://github.com/ashcode028/multiplayer-game/blob/2d8544305ad578cc8d0d12657b254f9d28cc4d1b/pong.jpeg)
+<p align="center">
+  <img src="https://github.com/ashcode028/multiplayer-game/blob/2d8544305ad578cc8d0d12657b254f9d28cc4d1b/pong.jpeg"/>
+</p>
+
 ## Features	
 - single player mode- where player competes with the computer
 - multiplayer mode-2 players compete with each other
